@@ -19,8 +19,8 @@
 
 ### 截图
 
-![1](Screenshots/截屏2022-03-26 下午1.42.02.png)
+![1](Screenshots/1.png)
 
-![截屏2022-03-26 下午1.53.03](Screenshots/截屏2022-03-26 下午1.53.03.png)
+![2](Screenshots/2.png)
 
-![3](Screenshots/5EEE6BE04D0EC01D6D98C4186423DD88.png)
+![3](Screenshots/3.png)
